@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 This is file 2 added in master branch and again modified in master branch
 Changed file 2 content
+=======
